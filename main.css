@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #001F3F;
+    font: 15pt normal;
+    color: #F2F2F2;
+}
+
+header {
+    text-align: center;
+    margin: 15px;
+    color: black;
+}
+
+section {
+    border-radius: 10px;
+    padding: 15px;
+    width: 900px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+div {
+    text-align: center;
+}
+
+#imagemHoras {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+div p {
+    color: black;
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+    margin: 15px;
+    font-style: italic;
+    color: black;
+}
